@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Bookings>
+	<Booking>
+		<BookingId>26538</BookingId>
+		<TableNumber>T2</TableNumber>
+		<CustomerId>55907</CustomerId>
+		<StartTime>2</StartTime>
+		<EndTime>3</EndTime>
+		<Customer>
+			<CustomerId>55907</CustomerId>
+			<Name>Tarunpreet</Name>
+			<Phone>4372411459</Phone>
+			<Email>t@gmail.com</Email>
+		</Customer>
+	</Booking>
+</Bookings>

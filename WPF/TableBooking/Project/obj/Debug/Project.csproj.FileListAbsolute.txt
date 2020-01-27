@@ -1,0 +1,94 @@
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\App.g.cs
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\Gurdeep Singh\source\repos\Project\bin\Debug\Project.exe.config
+C:\Users\Gurdeep Singh\source\repos\Project\bin\Debug\Project.exe
+C:\Users\Gurdeep Singh\source\repos\Project\bin\Debug\Project.pdb
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\MainWindow.g.cs
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\MainWindow.baml
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.g.resources
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.exe
+C:\Users\Gurdeep Singh\source\repos\Project\obj\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\bin\Debug\Project.exe.config
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\bin\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\bin\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\MainWindow.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\App.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\MainWindow.baml
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.g.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectGudduUI\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\bin\Debug\Project.exe.config
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\bin\Debug\Project.exe
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\bin\Debug\Project.pdb
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\MainWindow.g.cs
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\App.g.cs
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.cache
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.lref
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\MainWindow.baml
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.g.resources
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.Properties.Resources.resources
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.exe
+D:\courseWork\Software development techniques\assignments\project\almostFinal\projectGudduUI\Project\obj\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\bin\Debug\Project.exe.config
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\bin\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\bin\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\MainWindow.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\App.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\MainWindow.baml
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.g.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal\projectGudduUI\Project\obj\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\MainWindow.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\App.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\bin\Debug\Project.exe.config
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\bin\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\bin\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\MainWindow.baml
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.g.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Window1.g.cs
+C:\Users\tarun\Desktop\courseWork\Software development techniques\assignments\projectFinal _Edit_Delete\projectGudduUI\Project\obj\Debug\Window1.baml
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\bin\Debug\Project.exe.config
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\bin\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\bin\Debug\Project.pdb
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Window1.g.cs
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\App.g.cs
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\MainWindow.baml
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Window1.baml
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.g.resources
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.exe
+C:\Users\tarun\Desktop\courseWork\Level1\Software development techniques\assignments\projectFinal _Edit_Delete\Project\Project\obj\Debug\Project.pdb

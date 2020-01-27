@@ -1,1 +1,1 @@
-Repo for some of the C# projects
+Repo containing WPF projects

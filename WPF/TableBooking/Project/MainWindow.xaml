@@ -1,0 +1,64 @@
+﻿<Window x:Class="Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="headingGrid" HorizontalAlignment="Left" Height="60" Margin="10,10,0,0" VerticalAlignment="Top" Width="772" Background="#FF6F82BF">
+            <Label x:Name="headingLabel" Content="Restaurant" Margin="332,18,0,0" VerticalAlignment="Top" Height="32" Width="126" FontSize="20" FontWeight="Bold" HorizontalAlignment="Left"/>
+        </Grid>
+        <TabControl HorizontalAlignment="Left" Height="339" Margin="10,70,0,0" VerticalAlignment="Top" Width="772">
+            <TabItem Header="Reservation" Width="252">
+                <Grid Background="#FFE5E5E5">
+                    <Label x:Name="lblName" Content="Name *" HorizontalAlignment="Left" Margin="238,18,0,0" VerticalAlignment="Top" Width="128"/>
+                    <Label x:Name="lblEmail" Content="Email Id *" HorizontalAlignment="Left" Margin="238,60,0,0" VerticalAlignment="Top" Width="128"/>
+                    <Label x:Name="lblPhone" Content="Phone Number *" HorizontalAlignment="Left" Margin="238,96,0,0" VerticalAlignment="Top" Width="128"/>
+                    <Label x:Name="lblTable" Content="Table Number *" HorizontalAlignment="Left" Margin="238,135,0,0" VerticalAlignment="Top" Width="128"/>
+                    <TextBox x:Name="txtName" HorizontalAlignment="Left" Height="23" Margin="405,18,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+                    <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Height="23" Margin="405,60,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+                    <TextBox x:Name="txtPhone" HorizontalAlignment="Left" Height="23" Margin="405,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182"/>
+                    <Label x:Name="lblDuration" Content="Time *" HorizontalAlignment="Left" Margin="238,176,0,0" VerticalAlignment="Top" Width="128"/>
+                    <ComboBox x:Name="comboTableName" HorizontalAlignment="Left" Margin="405,138,0,0" VerticalAlignment="Top" Width="182" SelectionChanged="CheckTimings"/>
+                    <ComboBox x:Name="comboTimings" HorizontalAlignment="Left" Margin="405,179,0,0" VerticalAlignment="Top" Width="182"/>
+                    <Button Content="Create Booking" HorizontalAlignment="Left" Margin="246,221,0,0" VerticalAlignment="Top" Width="120" Height="28" Background="#FFAEFFB2" Click="CreateBooking"/>
+                    <Label Content="" x:Name="lblCreationMessage" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="10,282,0,0" VerticalAlignment="Top" Width="747"/>
+                    <Button Content="Clear" HorizontalAlignment="Left" Margin="467,221,0,0" VerticalAlignment="Top" Width="120" Height="28" Background="#FFDA9639" Click="ClearFields"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Reservation Details" Width="252">
+                <Grid Background="#FFE5E5E5">
+                    <ListBox x:Name="listBoxBooking" HorizontalAlignment="Left" Height="201" Margin="85,40,0,0" VerticalAlignment="Top" Width="194" MouseLeftButtonUp="HighlightCustomers" SelectionMode="Extended"/>
+                    <ListBox x:Name="listBoxName" HorizontalAlignment="Left" Height="201" Margin="300,40,0,0" VerticalAlignment="Top" Width="201" SelectionMode="Extended" />
+                    <ListBox x:Name="listBoxPhone" HorizontalAlignment="Left" Height="201" Margin="519,40,0,0" VerticalAlignment="Top" Width="165" SelectionMode="Extended"/>
+                    <Label x:Name="lblTableList"  HorizontalContentAlignment="Center"  Content="Booking" HorizontalAlignment="Left" Margin="85,8,0,0" VerticalAlignment="Top" Width="166" FontSize="13"/>
+                    <Label x:Name="lblNameList"  HorizontalContentAlignment="Center"  Content="Name" HorizontalAlignment="Left" Margin="300,8,0,0" VerticalAlignment="Top" Width="165" FontSize="13"/>
+                    <Label x:Name="lblPhoneList"  HorizontalContentAlignment="Center"  Content="Phone number" HorizontalAlignment="Left" Margin="519,8,0,0" VerticalAlignment="Top" Width="165" FontSize="13"/>
+                    <Button Content="Edit" HorizontalAlignment="Left" Margin="300,246,0,0" VerticalAlignment="Top" Width="75" Click="EditDetails"/>
+                    <Button Content="Delete" HorizontalAlignment="Left" Margin="426,246,0,0" VerticalAlignment="Top" Width="75" Click="DeleteBooking"/>
+                    <Label x:Name="lblListsTabMessage" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="10,282,0,0" VerticalAlignment="Top" Width="747"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Search" Width="252">
+                <Grid Background="#FFE5E5E5" Margin="0,-4,0.2,4.2">
+                    <Label Content="Timings" HorizontalAlignment="Left" Margin="91,26,0,0" VerticalAlignment="Top"/>
+                    <ComboBox HorizontalAlignment="Left" Margin="150,29,0,0" VerticalAlignment="Top" Width="120" x:Name="comboTableSearch" SelectionChanged="ClearTableSearch"/>
+                    <Button Content="Search" HorizontalAlignment="Left" Margin="297,33,0,0" VerticalAlignment="Top" Width="75" Height="18" Click="SearchTables"/>
+                    <ListBox x:Name="listBoxTables" HorizontalAlignment="Left" Height="171" Margin="91,87,0,0" VerticalAlignment="Top" Width="281"/>
+                    <Label HorizontalContentAlignment="Center" Content="Tables  Available" HorizontalAlignment="Left" Margin="150,56,0,0" VerticalAlignment="Top" Width="120"/>
+                    <Label Content="Phone" HorizontalAlignment="Left" Margin="473,25,0,0" VerticalAlignment="Top"/>
+                    <TextBox x:Name="txtPhoneForSearch"  HorizontalAlignment="Left" Height="23" Margin="535,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <Button Content="Search" HorizontalAlignment="Left" Margin="682,29,0,0" VerticalAlignment="Top" Width="75" Click="SearchCustomer"/>
+                    <Label HorizontalContentAlignment="Center" Content="Bookings" HorizontalAlignment="Left" Margin="535,56,0,0" VerticalAlignment="Top" Width="120"/>
+                    <ListBox x:Name="listBoxBookings" Margin="473,87,10,53"/>
+                    <Label x:Name="lblSearchMessage" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="10,280,0,0" VerticalAlignment="Top" Width="747"/>
+
+
+                </Grid>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

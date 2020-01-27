@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tables>
+    <Table>
+        <TableNumber>T1</TableNumber>
+        <Seats>2</Seats>
+    </Table>
+    <Table>
+        <TableNumber>T2</TableNumber>
+        <Seats>2</Seats>
+    </Table>
+    <Table>
+        <TableNumber>T3</TableNumber>
+        <Seats>4</Seats>
+    </Table>
+    <Table>
+        <TableNumber>T4</TableNumber>
+        <Seats>4</Seats>
+    </Table>
+    <Table>
+        <TableNumber>T5</TableNumber>
+        <Seats>6</Seats>
+    </Table>
+    <Table>
+        <TableNumber>T6</TableNumber>
+        <Seats>6</Seats>
+    </Table>
+</Tables>
